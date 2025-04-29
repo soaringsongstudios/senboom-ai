@@ -41,9 +41,9 @@ Your $7 helps us:
 ## 📫 Join the Movement
 
 - 📬 [Sign up for Studio Updates](https://soaringsongstudios.substack.com)
-- 🐦 [@devon.worldchanger](https://x.com/devon.worldchanger)
+- 🐦 [@devon.worldchanger](https://x.com/Devon_WrldChngr)
 - 🎨 [@soaringsongstudios](https://instagram.com/soaringsongstudios)
-- 🖥️ [Visit SoaringSong.com](https://soaringsongstudios.com)
+- 🖥️ [Visit SoaringSongStudios.com](https://soaringsongstudios.com)
 
 ---
 
