@@ -50,5 +50,5 @@ Your $7 helps us:
 > 🙏 “We’re building something different — and we hope it helps you feel less alone.”
 
 ## License  
-© 2025 Soaring Song Studios. All rights reserved.  
+© 2025 Soaring Song LLC. All rights reserved.  
 This code is not open source and may not be copied, modified, or redistributed without written permission.
