@@ -14,7 +14,7 @@ async function sendMessage() {
   chatbox.appendChild(loadingMessage);
 
   try {
-    const response = await fetch("/ask", {
+    const response = await fetch("https://senboom-api.onrender.com/ask", {
       method: "POST",
       headers: {
         "Content-Type": "application/json"
